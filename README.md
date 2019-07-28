@@ -1,2 +1,2 @@
-# Advanced-Google-Maps-OSINT-Techniques-
+# Advanced-Google-Maps-OSINT-Techniques
 A selection of OSINT techniques for Google Maps. 
