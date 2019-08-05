@@ -1,3 +1,3 @@
-![alt text](https://www.logolynx.com/topic/google+maps#&gid=1&pid=5)
+![alt text](https://skymapglobal.com/wp-content/uploads/2017/11/google-maps-api-logo-e1510144686715.png)
 # Advanced-Google-Maps-OSINT-Techniques
 A selection of OSINT techniques for Google Maps. 
