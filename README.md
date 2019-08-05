@@ -1,3 +1,3 @@
-![alt text](https://www.thenetworking.com/wp-content/uploads/2017/10/google-maps-logo-open.png)
+![alt text](https://www.logolynx.com/topic/google+maps#&gid=1&pid=5)
 # Advanced-Google-Maps-OSINT-Techniques
 A selection of OSINT techniques for Google Maps. 
